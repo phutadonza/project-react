@@ -51,7 +51,7 @@ function Body(){
                         <div className="col-md-6 col-12 text-white">
                             <div className="benefits-title">
                                 สิ่งที่ได้รับจากการประเมิน
-                                <img class src="/images/i4mas.svg" width="30%"/>
+                                <img class src="/public/images/i4mas.svg" width="30%"/>
                             </div>
                             <div className="benefits-item">
                                 <img class="" src="/images/chart.svg" alt="/static/media/chart"/>
