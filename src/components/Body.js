@@ -26,7 +26,7 @@ function Body(){
                         </div>
                     </div>
                     <div className="col-lg-6 col-auto p-2 pt-4">
-                        <img class="img-fluid" src="/banner.svg" 
+                        <img class="img-fluid" src="/images/asset1.png" 
                             alt="SVG">    
                         </img>
                     </div>
