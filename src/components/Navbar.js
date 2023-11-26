@@ -2,7 +2,7 @@ import React from 'react';
 
 function Navbar() {
   const divStyle = {
-    backgroundColor:'#fff'
+    backgroundColor:'#0068FE'
   }
   return(
     <nav className="navbar navbar-expand-lg navbar-dark" style={divStyle}>
