@@ -13,7 +13,7 @@ function Body(){
                             ความพร้อมเพื่อยกระดับ
                         </div>
                         <div className="sub-title">
-                            เข้าสู่อุตสาหกรรม 4.5
+                            เข้าสู่อุตสาหกรรม 4.0
                         </div>
                         <div className="banner-button" shape="rounded-pill">
                             เริ่มใช้งาน
